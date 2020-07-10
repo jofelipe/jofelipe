@@ -15,6 +15,6 @@ My current setup for Web Development consists of:
 - 👨🏼‍💻 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+), Typescript & RESTful
 - 😏 Testing: Jest
 
-Also, I'm very enthusiastic about working as _"UI/UX problem solver"_, and sometimes I share my work made with Figma on [Behance](https://www.behance.net/jofelipe).
+Also, I love working as _"UI/UX problem solver"_, and sometimes I share my work made with Figma on [Behance](https://www.behance.net/jofelipe).
 
 Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
