@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 🖐🏼
 
-<!--
-**jofelipe/jofelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 24yo Senior Front-end Developer working with new awesome products at [Fitcard](https://www.fitcard.com.br/).
 
-Here are some ideas to get you started:
+My current setup for Web Development consists of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥 OS: Windows (with WSL) and Mac
+- ✨ Frameworks: .NET Core, ReactJS & React Native
+- 👨🏼‍💻 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+), Typescript & RESTful
+- 😏 Testing: Jest
+
+Also, I'm very enthusiastic about working as _"UI/UX problem solver"_, and sometimes I share my work made with Figma on [Behance](https://www.behance.net/jofelipe).
+
+Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
