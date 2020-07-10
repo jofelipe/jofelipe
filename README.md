@@ -12,7 +12,7 @@ My current setup for Web Development consists of:
 
 - 🖥 OS: Windows (with WSL) and Mac
 - ✨ Frameworks: .NET Core, ReactJS & React Native
-- 👨🏼‍💻 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+), Typescript & RESTful
+- 👨🏼‍💻 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript & RESTful
 - 😏 Testing: Jest
 
 Also, I love working as _"UI/UX problem solver"_, and sometimes I share my work made with Figma on [Behance](https://www.behance.net/jofelipe).
