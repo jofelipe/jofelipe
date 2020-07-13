@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jofelipe/)](https://www.linkedin.com/in/jofelipe/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@jofelipe.com)](https://medium.com/@jofelipe.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-053eff?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/jofelipe)](https://www.behance.net/jofelipe) 
-[![Site Badge](https://img.shields.io/badge/Site-jofelipe.com-black)](https://jofelipe.com/)
+[![Site Badge](https://img.shields.io/badge/Site-jofelipe.com-ed1844)](https://jofelipe.com/)
 
 ### Hi there 🖐🏼
 
