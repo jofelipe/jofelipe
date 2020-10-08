@@ -14,7 +14,8 @@ My current setup for Web Development consists of:
 - 💻 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+) & TypeScript
 - 😏 Testing: Jest
 
-/ TODO: Learning
+// TODO: Learn
+
 Gatsby & GraphQL
 
 Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
