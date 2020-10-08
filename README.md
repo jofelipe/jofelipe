@@ -15,5 +15,3 @@ My current setup for Web Development consists of:
 - 😏 Testing: Jest
 
 Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofelipe&layout=compact" />
