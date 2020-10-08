@@ -19,5 +19,4 @@ Also, I love working as _"UI problem solver"_, and sometimes I share my work mad
 
 Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jofelipe&count_private=true&show_icons=true&hide_title=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofelipe&layout=compact" />
