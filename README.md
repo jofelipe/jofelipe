@@ -11,8 +11,8 @@ My current setup for Web Development consists of:
 
 - 🖥 OS: Windows (with WSL) and Mac
 - ✨ Frameworks/Libraries: .NET Core, ReactJS, NextJS & React Native
-- 👌🏼 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+) & TypeScript
+- 🖤 Front-end: HTML5, CSS3, SASS, JavaScript (ES6+) & TypeScript
 - 😏 Testing: Jest
-- ❓ Learning: Gatsby & GraphQL
+- 📑 Learning: Gatsby & GraphQL
 
 Last, you can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
