@@ -5,6 +5,4 @@
 
 ### Hi there 🖐🏼
 
-I'm 26yo Front-end Developer and UI Designer working with new awesome products at [Fitcard](https://www.fitcard.com.br/).
-
 You can discover more about me at [jofelipe.com](https://jofelipe.com) 🤘🏼
